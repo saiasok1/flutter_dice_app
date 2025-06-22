@@ -2,7 +2,7 @@
 
 A simple and fun Flutter app that simulates rolling two dice. Built as part of my journey learning Flutter and Dart.
 
-![Dice App Screenshot](https://github.com/saiasok1/flutter_dice_app/blob/master/images/diceapp_screenshot.png)
+![Dice App Screenshot](https://github.com/saiasok1/flutter_dice_app/blob/main/images/diceapp_screenshot.png)
 
 ---
 
