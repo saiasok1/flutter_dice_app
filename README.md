@@ -1,16 +1,48 @@
-# diceapp
+# 🎲 Flutter Dice App
 
-A new Flutter project.
+A simple and fun Flutter app that simulates rolling two dice. Built as part of my journey learning Flutter and Dart.
 
-## Getting Started
+![Dice App Screenshot](https://github.com/saiasok1/flutter_dice_app/blob/master/images/diceapp_screenshot.png)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🎲 Tap interaction to roll dice (can be added)
+- 🎯 Random number generation
+- 🧱 Clean and minimal UI
+- 📱 Fully responsive layout
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Built With
+
+- **Flutter**
+- **Dart**
+
+---
+
+## 📂 Folder Structure
+
+```bash
+lib/
+ └── main.dart         # App entry point
+images/                # Dice images (if used)
+```
+## 🔧 How to Run
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/flutter_dice_app.git
+   
+2. Navigate into the project folder:
+   ```bash
+   cd flutter_dice_app
+   
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   
+4. Run the app:
+    ```bash
+    flutter run
